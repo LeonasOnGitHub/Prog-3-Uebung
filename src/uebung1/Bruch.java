@@ -1,4 +1,4 @@
-package brueche;
+package uebung1;
 
 public class Bruch implements Comparable<Bruch> {
 

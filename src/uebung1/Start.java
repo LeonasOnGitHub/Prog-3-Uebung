@@ -1,4 +1,4 @@
-package brueche;
+package uebung1;
 
 import java.util.Arrays;
 import java.util.Comparator;
